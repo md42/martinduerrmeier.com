@@ -1,4 +1,30 @@
 site_name: MartinDuerrmeier.com
-site_url: https://sitename.example
+site_url: https://martinduerrmeier.com
 theme:
-  name: material  
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+  features:
+    - navigation.footer
+
+extra:
+  social:
+    - icon: simple/mastodon
+      link: https://hachyderm.io/@md42
+    - icon: simple/linkedin
+      link: https://www.linkedin.com/in/martinduerrmeier/
