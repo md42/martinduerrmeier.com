@@ -14,6 +14,6 @@ on the offical page there is this excellent [manual](https://jameswillett.dev/ge
 
 ## What i considered but not choose
 
-[quartz](https://quartz.jzhao.xyz/)
+[quartz](https://quartz.jzhao.xyz/) because it has obsidian support
 
 [11ty](https://www.11ty.dev/)
