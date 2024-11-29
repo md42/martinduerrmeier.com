@@ -40,7 +40,7 @@ Java, Spring Boot, ArchUnit, GitHub Actions, Markdown, Domain-Driven Design, arc
 2006-2010 Allgemeine Informatik, Furtwangen University  
 2008 Exchange Semester Informatik, Tecnológico de Monterrey
 
-## Volunteer Work
+## For Fun
 
 ### [Racing Patagonia](https://www.racingpatagonia.com/), Chile
 
@@ -49,9 +49,7 @@ Java, Spring Boot, ArchUnit, GitHub Actions, Markdown, Domain-Driven Design, arc
 
 ### [Sueniños](https://sueninos.org), Mexico  
 
-2009 Sueniños
-
-## For Fun
+2009 Construction of 2 classrooms out of Adobe
 
 ### First officer sailing yacht Falk
 
@@ -62,7 +60,7 @@ Java, Spring Boot, ArchUnit, GitHub Actions, Markdown, Domain-Driven Design, arc
 
 2017 [planoalto GmbH](https://planoalto.ch/)  
 
-### Sail Teacher for kids
+### Sailing classes for kids
 
 2016-2018 [Segler Verein Staad e.V.](http://www.segler-verein-staad.de/)  
 
