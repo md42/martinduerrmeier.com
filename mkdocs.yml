@@ -27,7 +27,6 @@ theme:
 plugins:
   - search
   - blog
-  - rss
 
 markdown_extensions:
   - pymdownx.superfences:
