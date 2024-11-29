@@ -37,8 +37,9 @@ Java, Spring Boot, ArchUnit, GitHub Actions, Markdown, Domain-Driven Design, arc
 
 ## Education
 
-2008 Exchange Semester Informatik, Tecnológico de Monterrey  
-2006-2010 Allgemeine Informatik, Furtwangen University
+2006-2010 Allgemeine Informatik, Furtwangen University  
+2008 Exchange Semester Informatik, Tecnológico de Monterrey
+
 
 ## Volunteer Work
 
