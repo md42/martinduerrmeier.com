@@ -1,4 +1,4 @@
-# Lebenslauf
+# Curriculum vitae
 
 Martin Dürrmeier, mail [at] martinduerrmeier [dot] com, Berlin - Germany
 
@@ -40,17 +40,16 @@ Java, Spring Boot, ArchUnit, GitHub Actions, Markdown, Domain-Driven Design, arc
 2006-2010 Allgemeine Informatik, Furtwangen University  
 2008 Exchange Semester Informatik, Tecnológico de Monterrey
 
-
 ## Volunteer Work
 
-### Racing Patagonia, Chile
+### [Racing Patagonia](https://www.racingpatagonia.com/), Chile
 
 2016 [Ultrafiord](https://ultrafiord.com)  
 2016 [Patagonianexpeditionrace](https://patagonianexpeditionrace.com)
 
-### Sueniños, Mexico  
+### [Sueniños](https://sueninos.org), Mexico  
 
-2009 [Sueniños](https://sueninos.org)
+2009 Sueniños
 
 ## For Fun
 
@@ -61,7 +60,7 @@ Java, Spring Boot, ArchUnit, GitHub Actions, Markdown, Domain-Driven Design, arc
 
 ### Outdoor Guide Apprenticeship  
 
-2017[planoalto GmbH](https://planoalto.ch/)  
+2017 [planoalto GmbH](https://planoalto.ch/)  
 
 ### Sail Teacher for kids
 
