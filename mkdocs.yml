@@ -27,6 +27,8 @@ theme:
 plugins:
   - search
   - blog
+  - tags:
+      tags_file: tags.md
 
 markdown_extensions:
   - pymdownx.superfences:

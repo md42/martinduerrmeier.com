@@ -1,14 +1,16 @@
 ---
 date:
   created: 2024-11-29
+tags:
+  - TIL
 ---
 
-# trying to embedd excalidraw drawing
+# embedd an excalidraw drawing in markdown
 
-![foo](circles.excalidraw.png)
+![alt text, TODO](circles.excalidraw.png)
 
 grafic inspiered by circle of concern from Stephen Richards Covey
 
-## ok it works
+## how?
 
-I'm using Visual Studio Code with [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) name file e.g. circles.excalidraw.png draw with excalidraw and embedd png directly.
+I'm using Visual Studio Code with [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) Plugin. Name file e.g. circles.excalidraw.png draw with excalidraw directly in Visual Studio Code.
