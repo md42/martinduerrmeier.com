@@ -1,5 +1,7 @@
-site_name: MartinDuerrmeier.com
+site_name: Martin Duerrmeier
+site_description: no sure
 site_url: https://martinduerrmeier.com
+
 theme:
   name: material
   palette:
@@ -16,7 +18,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: indigo
       accent: deep orange
 
   features:
