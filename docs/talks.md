@@ -1,4 +1,7 @@
 ---
+hide:
+  - tags
+
 tags:
   - obsidian
   - KanDDDinsky
