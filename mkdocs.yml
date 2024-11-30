@@ -1,6 +1,8 @@
 site_name: martinduerrmeier.com
 site_description: Personal website of Martin Dürrmeier
 site_url: https://martinduerrmeier.com
+repo_url: https://github.com/md42/martinduerrmeier.com
+repo_name: md42/martinduerrmeier.com
 
 theme:
   name: material
