@@ -55,7 +55,7 @@ Sep 2000-Aug 2003
 **Programming** Java 21, Spring Boot  
 **DevOps** GitHub Actions, Jenkins  
 **Design & Documentation** Domain-Driven Design, ArchUnit, arc42  
-**Tools** Markdown, Grafana, Excalidraw, Obsidian  
+**Tools** Markdown, Grafana, Excalidraw, Obsidian, Miro  
 **Languages** English (C1), Spanish (C1)
 
 ## Education
