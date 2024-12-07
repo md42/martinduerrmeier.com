@@ -26,6 +26,13 @@ theme:
   features:
     - navigation.footer
 
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
+  - Talks: talks.md
+  - Tags: tags.md
+  - Imprint: imprint.md
+
 plugins:
   - search
   - blog
