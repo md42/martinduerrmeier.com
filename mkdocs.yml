@@ -33,7 +33,7 @@ nav:
   - CV: cv.md
   - Tags: tags.md
   - Legal Notice / Impressum: imprint.md
-  - Privacy Policy: privacy-policy.md
+  - Privacy Policy / Datenschutzerklärung: privacy-policy.md
 
 plugins:
   - search
