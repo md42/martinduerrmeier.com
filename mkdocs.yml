@@ -32,7 +32,7 @@ nav:
   - Talks: talks.md
   - CV: cv.md
   - Tags: tags.md
-  - Imprint: imprint.md
+  - Legal Notice / Impressum: imprint.md
   - Data Privacy Policy: data-privacy-policy.md
 
 plugins:
