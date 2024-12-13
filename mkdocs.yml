@@ -25,6 +25,8 @@ theme:
 
   features:
     - navigation.footer
+
+copyright: © 2024 Martin Dürrmeier. All Rights Reserved.    
   
 nav:
   - Home: index.md
@@ -66,3 +68,6 @@ extra:
       link: https://github.com/md42
     - icon: simple/linkedin
       link: https://www.linkedin.com/in/martinduerrmeier/
+
+  generator: false #https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/?h=footer#generator-notice
+  
