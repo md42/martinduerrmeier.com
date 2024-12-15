@@ -1,9 +1,9 @@
 ---
 date:
   created: 2024-12-15
-draft: true
 tags:
   - Systems Thinking
+  - Software Development
 ---
 # Systems Thinking - an Introduction
 
