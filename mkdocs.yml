@@ -23,7 +23,7 @@ theme:
       primary: indigo
       accent: deep orange
 
-copyright: © 2024 Martin Dürrmeier. All Rights Reserved.    
+copyright: © 2024 Martin Dürrmeier
   
 nav:
   - Home: index.md
