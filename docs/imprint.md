@@ -1,5 +1,7 @@
 # Legal Notice / Impressum
 
+:flag_de: Deutsche Version weiter unten.
+
 ## Provider {#m46}
 
 Martin Dürrmeier
