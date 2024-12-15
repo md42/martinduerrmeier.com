@@ -7,7 +7,7 @@ tags:
 
 # embedd an excalidraw drawing in markdown
 
-![Venn diagram with three circles: Innermost labeled "things I can influence," middle "things I can address," and outermost "outside my area of influence.](circles.excalidraw.png)
+![Venn diagram with three circles: Innermost labeled "things I can influence," middle "things I can address," and outermost "outside my area of influence.](excalidraw-in-markdown/circles.excalidraw.png)
 
 grafic inspiered by circle of concern from Stephen Richards Covey
 
