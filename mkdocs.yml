@@ -23,9 +23,6 @@ theme:
       primary: indigo
       accent: deep orange
 
-  features:
-    - navigation.footer
-
 copyright: © 2024 Martin Dürrmeier. All Rights Reserved.    
   
 nav:
