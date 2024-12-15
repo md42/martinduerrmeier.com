@@ -39,7 +39,8 @@ nav:
 
 plugins:
   - search
-  - blog
+  - blog:
+      blog_toc: true
   - tags:
       tags_file: tags.md
   - rss:
