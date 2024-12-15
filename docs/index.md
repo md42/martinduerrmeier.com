@@ -1,5 +1,9 @@
 # Home
 
-hi I'm Martin.. :construction_site:this page is under unstruction.. :construction_site:  
+hi I'm Martin.. :wave:
 
-some content is in the menu to the left :arrow_upper_left:
+Sometimes I try to [blog](blog/index.md). If you want to get new posts I suggest to subscribe using your favorite feed reader.
+
+To get an Idea what interests me I suggest having a look at [Tags](tags.md).
+
+You can talk to me via one of the methods in the footer.
