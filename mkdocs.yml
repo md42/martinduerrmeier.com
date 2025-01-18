@@ -64,8 +64,6 @@ extra:
       link: https://hachyderm.io/@md42
     - icon: simple/github
       link: https://github.com/md42
-    - icon: simple/linkedin
-      link: https://www.linkedin.com/in/martinduerrmeier/
-
+    
   generator: false #https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/?h=footer#generator-notice
   
