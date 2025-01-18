@@ -60,10 +60,12 @@ markdown_extensions:
   
 extra:
   social:
-    - icon: simple/mastodon
+    - icon: fontawesome/brands/mastodon
       link: https://hachyderm.io/@md42
-    - icon: simple/github
+    - icon: fontawesome/brands/github
       link: https://github.com/md42
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/martinduerrmeier/
     
   generator: false #https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/?h=footer#generator-notice
   
