@@ -15,5 +15,3 @@ or raise pullrequest when finding a bug :)
 ## Monitoring
 
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m798114162-65f99e753adb515336ef0144)
-
-
