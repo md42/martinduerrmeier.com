@@ -6,7 +6,7 @@ Martin Dürrmeier, mail [at] martinduerrmeier [dot] com, Berlin - Germany
 
 Systems Thinker riding the Elevator from Business to the Engine Room.  
 20+ years experience in problem-solving as Software Engineer and Architect.  
-Software modernisation, cloud migrations and forming teams.
+Software modernisation, cloud migrations and forming and leading teams.
 
 ## Professional Experience
 
