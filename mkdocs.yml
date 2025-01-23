@@ -66,6 +66,8 @@ extra:
       link: https://github.com/md42
     - icon: fontawesome/solid/square-rss
       link: https://martinduerrmeier.com/feed_rss_updated.xml
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/martinduerrmeier/
 
     
   generator: false #https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/?h=footer#generator-notice
