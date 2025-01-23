@@ -64,8 +64,9 @@ extra:
       link: https://hachyderm.io/@md42
     - icon: fontawesome/brands/github
       link: https://github.com/md42
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/martinduerrmeier/
+    - icon: fontawesome/solid/square-rss
+      link: https://martinduerrmeier.com/feed_rss_updated.xml
+
     
   generator: false #https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/?h=footer#generator-notice
   
