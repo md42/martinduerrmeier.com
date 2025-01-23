@@ -31,8 +31,8 @@ nav:
   - Talks: talks.md
   - CV: cv.md
   - Tags: tags.md
-  - Legal Notice / Impressum: imprint.md
-  - Privacy Policy / Datenschutzerklärung: privacy-policy.md
+  - Legal Notice: imprint.md
+  - Privacy Policy: privacy-policy.md
 
 plugins:
   - search
