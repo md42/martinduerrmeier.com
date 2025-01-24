@@ -38,7 +38,7 @@ Mar 2009-Dec 2018 Connected Charging Solutions
 
 ### [Innovations Softwaretechnologie GmbH (now Bosch)](https://bosch.io/)
 
-Jan 2008-July 2008  
+Jan 2008-Jul 2008  
 **Internship as Software Engineer**  
 
 - Developing an Eclipse plugin for Cruisecontrol
@@ -60,7 +60,7 @@ Sep 2000-Aug 2003
 
 ## Education
 
-2006-2010 B.Sc. Allgemeine Informatik, Furtwangen University  
+2006-2010 B.Sc. Computer Science, Furtwangen University  
 
 - Thesis "Untersuchung und Optimierung des compile-debug-deploy Zyklus von Java-Web Projekten auf Basis dynamischer Geschäftsregeln"
 
