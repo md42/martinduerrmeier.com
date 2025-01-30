@@ -6,27 +6,36 @@ tags:
   - Systems Thinking
   - Software Development
 ---
+
 # Systems Thinking - an Introduction
 
-What is Systems Thinking and why is it also important for Software Development? Let's look at the water cycle. Remember the last time you saw a flood?  
-<!-- more -->Why is there suddenly so much water that can take away cars, homes, even lives? Often it cannot be tracked back to a single event. It is the **interaction of elements**.  
+What is „Systems Thinking“ and, more importantly, why does it apply for Software Development? To understand this, let’s have a look at a water cycle. 
+Remember the last time you saw a flood?  
 
-- Rivers get less space to transport water way  
-- a City is full of concrete that does not absorb water
-- the Sun heats up concrete
-- Concrete releases heat into the air
-- Hot air rises and is condensing, leading to more moisture in the Air
-- Once it starts raining the water cannot be absorbed nor transported away fast enough leading to flooding  
+<!-- more -->
 
-This is a **nonlinear system**. Systems Thinking is nonlinear.
+Why is there suddenly so much water that is able to wash away cars, homes, even lives? 
+
+Most of the times it cannot be linked to a single event. It’s a result of the **interaction of elements**.  
+
+1. the available space for rivers to flow in is narrowing, so their ability to transport water is increasingly limited
+2. cities are full of concrete, and concrete does not absorb water
+3. sunshine heats up concrete
+4. hot concrete releases heat back into the air, making it even warmer
+5. Hot air rises and is condensing, leading to more moisture in the air
+6. Once it starts raining the water cannot be absorbed nor transported away fast enough, ultimately leading to flooding  
+
+This flow of events is called a **nonlinear system**. Systems Thinking is nonlinear.
 
 ## What is a linear System?
 
-A server costs you say 10 EUR / day. If you add another, that's 20 EUR / day. There is a **disconnection between the elements**.
+The cost for a rented server is e.g. 10 EUR a day. If you add another, that's 20 EUR a day. 
+
+There is a **disconnection between the elements**.
 
 ## Is Software Development linear or nonlinear?
 
-Let's learn Python, it has 35 keywords. Once you know each keyword you know Python right? Wrong.  
+Imagine you want to lean the programming language Python, it consists of roughly 35 keywords. Once you know each keyword you know Python right? Wrong.  
 
 You can however learn Python with a linear approach.  
 
@@ -35,26 +44,31 @@ You can however learn Python with a linear approach.
 3. Write a hello world program  
 4. Learn a new def keyword and start again
 
-To further learn and better benefit from the language soon you need to structure the program you write.  
+To further learn and improve being able to use the the language, you need to structure the program you write.  
 
-When building a web shop you don't want to write every functionality on your own.  
+When building a web shop you ideally don't want to write every functionality on your own.  
 
-You use already developed parts and need to learn how to connect them.  
-What are their **Relationships**?  
-How do they interact?  
-You create a new **Whole**.  
-A mistake sneaks into the system. You start analyzing.  
-There might be timing involved.  
-You have assumptions.
-
-You debug the program. You analyse the **elements** and their **Relationships**. You need to understand the **Whole**.
+This is an explanatory and fictive way of what might happen:
+ 
+- You reuse maybe already developed parts and need to learn how to connect them.
+- What are their **Relationships**?  
+- How do they interact between each other?  
+- You create a new system as a **Whole**.  
+- A mistake sneaks into the system. 
+- You start analyzing.  
+- There might be timing involved.  
+- You take assumptions.
+- You debug the program. 
+-  You analyse the **elements** and their **Relationships**. 
+- You need to understand your system as a **Whole**.
 
 You apply Systems Thinking.  
 
-Software Development is often a combination of linear and nonlinear thinking. A change in one part of the System can influence the whole System in unpredictable ways.
+Software Development is often a combination of linear and nonlinear thinking. A change in one part of the system can easily influence the overall system and its internal interactions in unpredictable ways.
 
-## Exercice for you
+## A thought experiment as an exercise
 
-You plant 3 chili seeds.  
-How many plants will you get?  
+- You plant 3 chili seeds.  
+- How many plants will you get?  
+  
 Is this a linear or a nonlinear system?
