@@ -7,7 +7,7 @@ tags:
 # Today I learned (TIL)
 
 I'd like to improve my writing, that is why I created the blog. At the same time I was missing a mechanism to share small things i learned which are "not really worth a blog post".
-The TIL category is for sharing those small things. For now I leave them in the blog with a tag [TIL](../tags/#tag:til).
+The TIL category is for sharing those small things. For now I leave them in the blog with a tag [TIL](https://martinduerrmeier.com/tags/#tag:til).
 
 So what did I learn today? **Instead of making a big concept**
 
