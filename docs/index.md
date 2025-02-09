@@ -1,7 +1,5 @@
 # Home
 
-hi I'm Martin.. :wave:
+hi I'm Martin :wave_tone2:, welcome to my little corner of the web. I'm glad you're here. Don't miss my [blog](blog/index.md).
 
-I plan to [blog](blog/index.md). If you want to get new posts I suggest to subscribe using your favorite feed reader.
-
-You can talk to me via one of the methods in the footer.
+You can contact me via one of the methods in the footer :slight_smile:.
