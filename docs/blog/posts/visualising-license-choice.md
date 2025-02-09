@@ -7,7 +7,7 @@ tags:
 # Which license to choose for a git repo?
 
 TIL [Codeberg](https://codeberg.org)[^1] has a [help text](https://docs.codeberg.org/getting-started/licensing/) to choose a license when creating a git repository.  
-That is handy! Let's make a [Mermaid Flowchart](https://mermaid.js.org/syntax/flowchart.html) for that. I find that better to read then the pure text.
+That is handy! Let's make a [Mermaid Flowchart](https://mermaid.js.org/syntax/flowchart.html) for that. I find that it is better to read than pure text.
 
 ``` mermaid
 flowchart TD
