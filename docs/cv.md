@@ -56,7 +56,7 @@ Sep 2000-Aug 2003
 **DevOps** GitHub Actions, Jenkins  
 **Design & Documentation** Domain-Driven Design, ArchUnit, arc42  
 **Tools** Markdown, Grafana, Excalidraw, Obsidian, Miro  
-**Languages** English (C1), Spanish (C1), German (Native)
+**Human Languages** English (C1), Spanish (C1), German (Native)
 
 ## Education
 
